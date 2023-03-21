@@ -5,3 +5,4 @@ RUN apt-get install -y openjdk-8-jdk
 RUN apt-get install -y maven
 RUN apt-get install -y git
 RUN apt-get install -y wget
+RUN apt-get install -y unzip
